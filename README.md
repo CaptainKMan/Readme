@@ -8,3 +8,4 @@ Commands:
 |twitch = sends the Soup Kitchen's Member's Twitch.tv links
 |members = Lists the Soup Kitchen's members
 |help = lists commands
+|rick = B)
