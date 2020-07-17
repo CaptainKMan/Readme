@@ -9,3 +9,4 @@ Commands:
 |members = Lists the Soup Kitchen's members
 |help = lists commands
 |rick = B)
+|rick2 = ( •_•)>⌐■-■
