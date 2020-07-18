@@ -22,3 +22,4 @@ Current Version = 0.0.1
 Commands:
 #youtube = sends the Soup Kitchen's youtube link
 #8ball = an 8ball
+#help = lists commands
