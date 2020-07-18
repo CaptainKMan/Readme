@@ -1,5 +1,5 @@
 # Soup-Discord-Bot
-The Soup's bot
+The Soup bot
 
 Current Version = 0.0.2
 
@@ -11,3 +11,14 @@ Commands:
 |help = lists commands
 |rick = B)
 |rick2 = ( •_•)>⌐■-■
+
+=========================
+
+# Soup-Discord-Bot
+The Soups_v2.0 bot
+
+Current Version = 0.0.1
+
+Commands:
+#youtube = sends the Soup Kitchen's youtube link
+#8ball = an 8ball
