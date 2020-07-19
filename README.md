@@ -17,7 +17,7 @@ Commands:
 # Soup-Discord-Bot
 The Soups_v2.0 bot
 
-Current Version = 0.0.1
+Current Version = 0.0.2
 
 Commands:
 #youtube = sends the Soup Kitchen's youtube link
