@@ -17,9 +17,13 @@ Commands:
 # Soup-Discord-Bot
 The Soups_v2.0 bot
 
-Current Version = 0.0.2
+Current Version = 0.1.0
 
 Commands:
 #youtube = sends the Soup Kitchen's youtube link
 #8ball = an 8ball
-#help = lists commands
+#twitch = sends the Soup Kitchen's Member's Twitch.tv links
+#aop = Random Attack Operator
+#dop = Random Defense Operator
+#clear <number> = clears <number> amount of previous messages
+#ping = pong
