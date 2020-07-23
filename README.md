@@ -4,6 +4,7 @@ The Soup bot
 Current Version = 0.0.2
 
 Commands:
+Prefix: |
 |youtube = sends the Soup Kitchen's youtube link
 |twitch = sends the Soup Kitchen's Member's Twitch.tv links
 |members = Lists the Soup Kitchen's members
@@ -20,6 +21,7 @@ The Soups_v2.0 bot
 Current Version = 0.0.2
 
 Commands:
-#youtube = sends the Soup Kitchen's youtube link
-#8ball = an 8ball
-#help = lists commands
+Prefix: *
+*youtube = sends the Soup Kitchen's youtube link
+*8ball = an 8ball
+*help = lists commands
