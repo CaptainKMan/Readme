@@ -28,5 +28,5 @@ Prefix = *
 *dop = Random Defense Operator
 *clear <number> = clears <number> amount of previous messages
 *ping = pong
-*gl = specifies challenges that you have to abide by for that march in R6 Siege
+*gl = specifies challenges that you have to abide by for that match in R6 Siege
 *rps = Rock paper scissors
