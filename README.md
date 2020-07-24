@@ -29,3 +29,4 @@ Prefix = *
 *clear <number> = clears <number> amount of previous messages
 *ping = pong
 *gl = specifies challenges that you have to abide by for that march in R6 Siege
+*rps = plays rock paper scissors
