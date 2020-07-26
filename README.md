@@ -31,3 +31,4 @@ Prefix = *
 *gl = specifies challenges that you have to abide by for that match in R6 Siege
 *rock, paper, or scissors = I think you know what this does
 *scp = sends a random SCP
+*scp link <number> = sends the wiki page for specified scp (do not put leading 0s infront or command will not work)
