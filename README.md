@@ -1,7 +1,7 @@
 # Soup-Discord-Bot
 The Soup bot
 
-Current Version = 0.0.2
+Current Version = 0.0.3
 
 Commands:
 Prefix = |
@@ -16,7 +16,7 @@ Prefix = |
 # Soup-Discord-Bot
 The Soups_v2.0 bot
 
-Current Version = 0.1.0
+Current Version = 0.2.1
 
 Commands:
 Prefix = *
