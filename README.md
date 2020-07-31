@@ -14,7 +14,7 @@ Prefix = |
 |rick2 = ( •_•)>⌐■-■
 =========================
 # Soup-Discord-Bot
-The Soups_v2.0 bot
+The Soups v2.0 bot
 
 Current Version = 0.2.1
 
